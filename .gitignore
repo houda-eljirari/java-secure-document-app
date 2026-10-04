@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Security / sensitive files
+secure-app.p12
+*.key
+
+# Generated signatures and HMAC
+documents/document.hmac
+documents/document.sig
+
+# Exported certificate
+certificate.cer
+
+# Local secrets
+.env
