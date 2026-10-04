@@ -1,4 +1,4 @@
-# SecureDocumentApp 🔐
+# SecureDocumentApp
 
 Application Java dédiée à la sécurisation et à l'authentification de documents numériques.
 
